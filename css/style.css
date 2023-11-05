@@ -1,0 +1,43 @@
+header{
+    background-color:rgb(255, 139, 220);
+
+
+    flex-direction: row;
+      
+    .menu{
+        position:sticky;
+      }
+    
+    .menu ul li {
+        display: inline;
+        margin-left: 1%;
+      }
+    
+}
+
+
+.logo{
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.menu{
+    background-color: rgb(255, 139, 220);
+    text-align: center;
+    padding: 2%;
+    font-size: 1.5em;
+    position: fixed;
+    width: 100%;
+}
+
+a:hover {
+    text-decoration: none;
+    font-size: 1.1em; 
+    color: #000000;
+    }
+
+li{
+    padding: 1%;
+    font-size: 1.1em;
+}
+
