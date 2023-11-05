@@ -21,6 +21,23 @@ header{
     font-size: 1.5em;
 }
 
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+    border-style: solid;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 5px;
+}
+
 .menu{
     background-color: rgb(255, 139, 220);
     text-align: center;
